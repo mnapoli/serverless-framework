@@ -29,6 +29,14 @@ It contains the following differences:
   - Removed post-install messages.
 - Fixed a node warning ("The `punycode` module is deprecated").
 
+## Installation
+
+Package name has changed, you can install it via NPM:
+
+```bash
+npm install -g @bref.sh/serverless
+```
+
 ## Get Started
 
 - [Setup](./docs/getting-started.md)
